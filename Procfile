@@ -1,0 +1,1 @@
+web: gunicorn mavfast_remote_api:app
